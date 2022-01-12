@@ -9,7 +9,7 @@
 
 ## FREELANCER APP 
 
-This application integrates with an external currency conversion API with the relevant parameters using Laravel Guzzle/HTTP client to convert any currency to another via on HTTP request. 
+This application integrates with an external currency conversion API. With the relevant parameters it uses Laravel Guzzle/HTTP client to convert any currency to another via on HTTP request. 
 Launch the application from your favourite editor (uing php artisan serve command. Copy and paste the generated url in your browser. You will arrive at the home page, showing link to create a new user. After creating a new user, you will be redirected to the complete sign up screen.  After completing sign up, navigate to the freelancer page where you can search for the new user by name to display the user details including currency conversion, job title and hourly rate.
 
 ## License
